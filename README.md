@@ -10,7 +10,7 @@ For flashing the firmware we recommend using [QMK Toolbox](https://github.com/qm
 ## How to flash firmware
 
 1. Go to a folder for your keyboard
-2. Choose the appropriate file; all files are prefixed with the exact keyboard model, also the readme describes the firmware details
+2. Choose the appropriate .hex file; all files are prefixed with the exact keyboard model, also the readme describes the firmware details
 3. Download the file to your computer
 4. Open QMK Toolbox and choose in "Local file" the previously downloaded firmware
 5. Connect your keyboard to USB
