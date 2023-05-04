@@ -17,3 +17,7 @@ For flashing the firmware we recommend using [QMK Toolbox](https://github.com/qm
 6. Find the Reset button on your keyboard and press it.  May need one or two pressing
 7. Press the "Flash" button and wait until the firmware be flashed
 8. Happy)
+
+## Modification
+
+Since there may be some changes in keyboard layouts and also to simplify firmware modifications we provide QMK configuration files we are using for firmware. They are located inside the appropriate keyboard folders. You can use them in your own firmware development.
