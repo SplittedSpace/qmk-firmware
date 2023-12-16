@@ -1,3 +1,6 @@
+# Repository is deprecated!
+## All firmwares are now available in the Releases section of the new repository which also contains full source code: [https://github.com/SplittedSpace/qmk-keyboards](https://github.com/SplittedSpace/qmk-keyboards)
+
 
 # QMK Firmwares for SplittedSpace keyboards
 
